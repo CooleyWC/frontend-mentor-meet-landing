@@ -21,8 +21,8 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/CooleyWC/frontend-mentor-meet-landing)
+- Live Site URL: [Add live site URL here](https://cooleywc.github.io/frontend-mentor-meet-landing/)
 
 ## My process
 
