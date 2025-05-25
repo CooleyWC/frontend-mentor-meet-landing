@@ -292,14 +292,14 @@ header img {
   margin: 0 auto;
   width: 70%;
   
-  h3 {
+  h2 {
     font-size: 0.8rem;
     letter-spacing: .4em;
     font-weight: 900;
     color: var(--clr-cyan)
   }
 
-  h2 {
+  h3 {
     font-size: 2rem;
     font-weight: 800;
   }
