@@ -317,7 +317,7 @@ header img {
   width: 100%;
   min-height: 380px;
   background-repeat: no-repeat;
-  background-image: url("starter-code/assets/mobile/image-footer.jpg");
+  background-image: url("assets/mobile/image-footer.jpg");
   background-size: 100% 100%;
   background-color: var(--clr-cyan);
   background-blend-mode: soft-light;
@@ -390,7 +390,7 @@ background-size: cover;
   }
 
   .footer-container {
-    background-image: url("starter-code/assets/tablet/image-footer.jpg");
+    background-image: url("assets/tablet/image-footer.jpg");
   }
 
   .footer-description {
@@ -432,7 +432,7 @@ background-size: cover;
 }
 
 .footer-container {
-  background-image: url("starter-code/assets/desktop/image-footer.jpg");
+  background-image: url("assets/desktop/image-footer.jpg");
 }
 
 .footer-article {
